@@ -109,7 +109,7 @@ nav .fa{
     .nav-links{
         position: absolute;
         top: 0;
-        right: 0px;
+        right: -200px; /* Hide sidebar off-screen by default */
         width: 200px;
         height: 100vh;
         background-color: rgb(23, 132, 85);
@@ -141,7 +141,7 @@ nav .fa{
     .nav-links{
         position: absolute;
         top: 0;
-        right: 0px;
+        right: -200px; /* Hide sidebar off-screen by default */
         width: 200px;
         height: 100vh;
         background-color: rgb(23, 132, 85);
